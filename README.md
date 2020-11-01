@@ -78,7 +78,7 @@ When addressing the topics on this page, I will link directly to sources in the 
 
 ## Have we seen a recent spike in the transgender population?
 
-**Evidence says yes—more transgender people are being recorded. Importantly, however, researchers do not claim that this represents a spike in the actual population, and they say it is reasonable that numbers are higher because existing trans individuals feel more comfortable coming out due to greater acceptance and awareness of their identities.**
+**Evidence says yes—more transgender people are being recorded. However, researchers do not claim that this represents a spike in the actual population, and they speculate that numbers are higher because existing trans individuals feel more comfortable coming out due to greater acceptance and awareness of their identities.**
 
 [This 2017 peer-reviewed study](https://ajph.aphapublications.org/doi/10.2105/AJPH.2016.303578) in the American Journal of Public Health states the following (emphasis is mine):
 
