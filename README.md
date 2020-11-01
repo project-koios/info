@@ -3,7 +3,7 @@
 - [Sources and Data](#sources-and-data)
 - [Gender and Sex](#gender-and-sex)
   - [Does transitioning actually work?](#does-transitioning-actually-work)
-  - [Has there been a recent spike in the transgender population?](#has-there-been-a-recent-spike-in-the-transgender-population)
+  - [Have we seen a recent spike in the transgender population?](#have-we-seen-a-recent-spike-in-the-transgender-population)
   - [Can minors recieve gender-affirming medical treatment without oversight?](#can-minors-recieve-gender-affirming-medical-treatment-without-oversight)
   - [Is transgender hormone therapy untested or experimental?](#is-transgender-hormone-therapy-untested-or-experimental)
   - [Do transgender people often regret transitioning?](#do-transgender-people-often-regret-transitioning)
@@ -76,7 +76,7 @@ When addressing the topics on this page, I will link directly to sources in the 
 
 [A study](https://pediatrics.aappublications.org/content/134/4/696?source=post_page-----4b76914bba52----------------------) from the journal *Pediatrics* evaluated a group of young transgender people "before the start of puberty suppression," "when cross-sex hormones were introduced," and "at least 1 year after gender reassignment surgery." It found that **"after gender reassignment, in young adulthood, the [gender dysphoria] was alleviated and psychological functioning had steadily improved."**
 
-## Has there been a recent spike in the transgender population?
+## Have we seen a recent spike in the transgender population?
 
 **Evidence says yes—more transgender people are being recorded. Importantly, researchers do not claim that this represents a spike in the actual population, and they say it is reasonable that numbers are higher because existing trans individuals feel more comfortable coming out due to greater acceptance and awareness of their identities.**
 
