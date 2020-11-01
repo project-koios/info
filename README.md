@@ -90,7 +90,7 @@ In conclusion, there has been an increase in the recorded population of transgen
 
 ## Can minors recieve gender-affirming medical treatment without oversight?
 
-**Evidence says not likely. While laws in some areas could allow minors to recieve treatments without the approval of parents or mental health professionals, there are many barriers in reality (most of which are endorsed by leading transgender health organizations). Widely-adopted medical guidelines for hormone therapy and gender-confirmation surgery have restrictions on treatment for minors that—when combined with the age of consent, the judgement of medical professionals, the requirements of insurance coverage, and the cost of treatment—make it virtually impossible for a minor to receive gender-affirmation treatments without oversight.**
+**Evidence says not likely. While laws in some areas could allow minors to recieve treatments without the approval of parents or mental health professionals, there are many barriers in reality (most of which are endorsed by leading transgender health organizations).**
 
 The [World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/) is a non-profit organization whose goal is "to promote evidence based care, education, research, public policy, and respect in transgender health." WPATH publishes the [*Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People*](https://www.wpath.org/media/cms/Documents/SOC%20v7/Standards%20of%20Care_V7%20Full%20Book_English.pdf), which informs transgender medical care around the world.
 
@@ -103,6 +103,8 @@ While the SOC emphasizes that genital surgery should only occur at the legal age
 Regardless, there is a difference between possibility and practicality, as pointed out in this [news coverage from Oregon](https://www.koin.com/news/headline-irrational-on-oregon-transgender-coverage/). As the Oregon Health Authority points out in their statement, patients must still "demonstrate the capacity to make a fully formed decision and to give consent to treatment, regardless of age," and "nothing in Oregon law requires a health care provider to provide medical services to a minor." They go on to say that "in most cases, providers will encourage (and in some cases require) family engagement."
 
 Additonally, insurance policies that cover gender-affirmation treatments ([see here](https://www.hrc.org/resources/finding-insurance-for-transgender-related-healthcare)) largely align with the WPATH's Standards of Care, meaning that, even if a minor were to find a doctor willing to give them treatment without parental oversight, their insurance plan (that they access through their parents) would require the guidelines mentioned above to be met before covering the cost. The alternative would be for the minor to pay for treatment themself.
+
+In conclusion, widely-adopted medical guidelines for hormone therapy and gender-confirmation surgery place restrictions on treatment for minors that—when combined with the age of consent, the judgement of medical professionals, the requirements of insurance coverage, and the cost of treatment—make it virtually impossible for a minor to receive gender-affirmation treatments without oversight.
 
 ## Is transgender hormone therapy untested or experimental?
 
