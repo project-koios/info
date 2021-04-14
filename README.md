@@ -58,7 +58,7 @@ Finally, even if one were to eliminate all personal bias, and even if one were t
 
 ## Citing Evidence
 
-When addressing the topics on this page, I will link directly to sources in the text, as I have done in this opening section. At the bottom of this page, you can find a list of sources that are referenced, broken up by section. If you find contradictory evidence, if you notice any errors or biases in my sources that are not addressed, if you find the linked papers to be behind a paywall, or if any of the links become broken, please email [project-koios@protonmail.com](mailto:project-koios@protonmail.com).
+When addressing the topics on this page, I will link directly to sources in the text, as I have done in this opening section. At the bottom of this page, you can find a list of sources that are referenced, broken up by section. If you find contradictory evidence, if you notice any errors or biases in my sources that are not addressed, if you find the linked papers to be behind a paywall, or if any of the links become broken, please email [titanp@pm.me](mailto:titanp@pm.me).
 
 ### [Sources and Data References](#sources-and-data-1)
 
